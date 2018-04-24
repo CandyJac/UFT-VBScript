@@ -1,2 +1,3 @@
-# VBScript
-Introduction to VBScripting
+# VBScripts
+
+The following scripts were created for UFT
